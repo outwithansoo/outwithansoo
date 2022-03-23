@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 ### ⭐️ My favorite technique = <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
 ### 📚 My major in university is softwar engineering
-### Skills learned at school = <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Ai-FF9A00?style=flat-square&logo=Ai&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+### Skills learned at school = <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Ai-FF9A00?style=flat-square&logo=Ai&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=C#&logoColor=white"/>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=outwithansoo&show_icons=true&theme=radical)
 
