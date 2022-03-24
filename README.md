@@ -13,3 +13,5 @@
 
 ⛳️ Purpose = "세상사람들에게 편리한 도움을 줄 수 있는 어플 만들기", "작은회사 운영해보기", "1000억 자산가가 되기", "세계일주하기"  
 
+🔗 Mentor = Ray Dalio
+![download](https://user-images.githubusercontent.com/92626903/159908186-4e50a602-c502-43bf-9d77-2a05a7ef60e8.jpeg)
