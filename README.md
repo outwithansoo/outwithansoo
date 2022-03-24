@@ -1,4 +1,4 @@
-# 앱개발 공부중입니다! <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=apple&logoColor=white"/> 
+#  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=apple&logoColor=white"/> 앱개발 공부중입니다!
 
 
 ### ⭐️ My favorite technique = <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
