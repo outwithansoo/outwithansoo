@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=outwithansoo&show_icons=true&theme=github_dark)
 
-🕐 Hobby = 🏃‍♂️Running, 🏋️‍♂️Weight training, ⛰Mountain climbing, 📖Reading
+🕐 Hobby = 🏃‍♂️ Running, 🏋️‍ ♂️Weight training, ⛰ Mountain climbing, 📖 Reading
 
 💬 Motto =  "어려움이란 단어는 없다. 단지 익숙하지 않을 뿐이다."
 
