@@ -1,7 +1,7 @@
 #  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=apple&logoColor=white"/> 앱개발 공부중입니다!
 
 
-### 🛠 메인기술 = <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+### 🛠 Main 기술 = <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
 ### 📚 My major in university is softwar engineering
 ### Skills learned at school = <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/샵-239120?style=flat-square&logo=C#&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=VB.NET&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/> <img src="https://img.shields.io/badge/AI-FF9A00?style=flat-square&logo=AI&logoColor=white"/> 
