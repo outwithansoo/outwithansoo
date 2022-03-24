@@ -7,9 +7,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=outwithansoo&show_icons=true&theme=github_dark)
 
-🕐 Hobby = Running, Weight training, Mountain climbing, Reading
+🕐 Hobby = 🏃‍♂️Running, 🏋️‍♂️Weight training, ⛰Mountain climbing, 📖Reading
 
 💬 Motto =  "어려움이란 단어는 없다. 단지 익숙하지 않을 뿐이다."
 
-💫 Purpose = "세상사람들에게 편리한 도움을 줄 수 있는 어플 만들기", "작은회사 운영해보기", "1000억 자산가가 되기"  
+⛳️ Purpose = "세상사람들에게 편리한 도움을 줄 수 있는 어플 만들기", "작은회사 운영해보기", "1000억 자산가가 되기", "세계일주하기"  
 
