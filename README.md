@@ -1,4 +1,4 @@
-# Hi there 👋
+# 앱개발 공부중인 앱등이 👋
 
 <!--
 **outwithansoo/outwithansoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
