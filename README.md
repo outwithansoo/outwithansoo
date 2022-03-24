@@ -7,6 +7,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=outwithansoo&show_icons=true&theme=github_dark)
 
-
+### 💬 Hobby = Running, Weight training, Mountain climbing, Reading
 
 
