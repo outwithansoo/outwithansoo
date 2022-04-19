@@ -5,7 +5,7 @@
 ### 📚 Major = Software Engineering
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=outwithansoo&show_icons=true&theme=github_graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=outwithansoo&show_icons=true&theme=swift)
 
 🕐 Hobby = 🏃‍♂️ Running, 🏋️‍ Weight training, ⛰ Mountain climbing, 📖 Reading, 🚗 Driving
 
