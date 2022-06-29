@@ -3,7 +3,7 @@
 ### 🛠 Main Skill = <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
 ### 📚 Major = Software Engineering
-### Activities
+### 🌱 Activities
   
             Yagom Academy iOS Code Stater Camp 2rd (2021.12.6 ~ 2022.1.7)  
   
