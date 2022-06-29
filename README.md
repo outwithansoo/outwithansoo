@@ -3,8 +3,8 @@
 ### 🛠 Main Skill = <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
 ### 📚 Major = Software Engineering
-### 👣 Activity = Yagom Academy iOS Code Stater Camp 2rd (2021.12.6 ~ 2022.1.7)    
-###               Risingcamp iOS Camp 8rd (2022.7.9 ~ 2022.9.2)
+Activity = Yagom Academy iOS Code Stater Camp 2rd (2021.12.6 ~ 2022.1.7)
+           Risingcamp iOS Camp 8rd (2022.7.9 ~ 2022.9.2)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=outwithansoo&show_icons=true&theme=swift)
