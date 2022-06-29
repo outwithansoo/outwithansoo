@@ -4,8 +4,8 @@
 
 ### 📚 Major = Software Engineering
 
-### 2021.12.6~2022.1.7 야곰 코드스타터 캠프 2기
-### 2022.7.9~2022.9.2 라이징캠프 8기 iOS
+#### 2021.12.6~2022.1.7 야곰 코드스타터 캠프 2기
+#### 2022.7.9~2022.9.2 라이징캠프 8기 iOS
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=outwithansoo&show_icons=true&theme=swift)
