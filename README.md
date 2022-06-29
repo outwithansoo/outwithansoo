@@ -2,10 +2,10 @@
 
 ### 🛠 Main Skill = <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
-### 📚 Major = Seoil Universirty Software Engineering (3년제) 2022...재학중
+### 📚 Major = Software Engineering
 
 ### Activity 2021.12.6~2022.1.7 야곰 코드스타터 캠프 2기
-###  2022.7.9~2022.9.2 라이징캠프 8기 iOS
+### 2022.7.9~2022.9.2 라이징캠프 8기 iOS
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=outwithansoo&show_icons=true&theme=swift)
