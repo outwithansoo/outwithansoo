@@ -1,16 +1,15 @@
-### Hi there 👋
+## Motto : "There is no such word as difficulty. I'm just not used to it."
 
-<!--
-**outwithansoo/outwithansoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=outwithansoo&show_icons=true&theme=swift)
 
-Here are some ideas to get you started:
+### Skill : C, C++, SWIFT
+### Major : Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Mentor : Ray Dalio
++ Image : Principles
+![download](https://user-images.githubusercontent.com/92626903/159908186-4e50a602-c502-43bf-9d77-2a05a7ef60e8.jpeg)
+
+
+### Purpose 
+Creating a service that can help people around the world conveniently </br> Try running a small business </br> 
+Become a billionaire </br> Traveling Around the World
